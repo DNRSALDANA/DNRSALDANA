@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego
 - 👀 I’m interested in Soccer
-- 🌱 I’m currently learning Progreamming
+- 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on improving the world
 - 📫 How to reach me dnrsaldana@gmail.com
 - 😄 Pronouns: ...
