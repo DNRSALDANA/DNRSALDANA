@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on improving the world
 - 📫 How to reach me dnrsaldana@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 DNRSALDANA/DNRSALDANA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
